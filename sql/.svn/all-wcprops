@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/497440/wp-editor/trunk/sql
+END
+database.sql
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/497440/wp-editor/trunk/sql/database.sql
+END
+uninstall.sql
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/497440/wp-editor/trunk/sql/uninstall.sql
+END

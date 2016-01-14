@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/697158/wp-editor/trunk/extensions/codemirror/js
+END
+codemirror.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/697158/wp-editor/trunk/extensions/codemirror/js/codemirror.js
+END
+search.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/497440/wp-editor/trunk/extensions/codemirror/js/search.js
+END
+javascript.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/497440/wp-editor/trunk/extensions/codemirror/js/javascript.js
+END
+clike.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/497440/wp-editor/trunk/extensions/codemirror/js/clike.js
+END
+php.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/560268/wp-editor/trunk/extensions/codemirror/js/php.js
+END
+css.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/497440/wp-editor/trunk/extensions/codemirror/js/css.js
+END
+mustache.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/586582/wp-editor/trunk/extensions/codemirror/js/mustache.js
+END
+htmlmixed.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/497440/wp-editor/trunk/extensions/codemirror/js/htmlmixed.js
+END
+htmlembedded.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/497440/wp-editor/trunk/extensions/codemirror/js/htmlembedded.js
+END
+dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/637914/wp-editor/trunk/extensions/codemirror/js/dialog.js
+END
+foldcode.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/497440/wp-editor/trunk/extensions/codemirror/js/foldcode.js
+END
+xml.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/497440/wp-editor/trunk/extensions/codemirror/js/xml.js
+END
+searchcursor.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/497440/wp-editor/trunk/extensions/codemirror/js/searchcursor.js
+END
